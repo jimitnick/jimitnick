@@ -47,6 +47,6 @@
   <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail" /></a>
   <a href="https://instagram.com/your-username"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?logo=vercel" /></a>
+  <a href="https://jimitnick.github.io/MyPortFolio.github.io/"><img src="https://img.shields.io/badge/Portfolio-000?logo=vercel" /></a>
 </p>
 
