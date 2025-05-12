@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Abhijith</h1>
-<h3 align="center">Tech Enthusiast | Full-Stack Developer | CSE Undergrad</h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=998&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=Tech+Enthusiast+;Full-Stack+Developer;CSE+Undergrad" alt="Typing SVG" /></a></h3>
 <h3 align="center">👨🏻‍🎓 @ Amrita Vishwa Vidyapeetham, Coimbatore</h3>
 
 
@@ -44,9 +44,9 @@
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
+  <a href="www.linkedin.com/in/abhijith-m-i-a21042315" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail" /></a>
-  <a href="https://instagram.com/your-username"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram" /></a>
+  <a href="https://instagram.com/ji_mitnick"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram" /></a>
   <a href="https://jimitnick.github.io/MyPortFolio.github.io/"><img src="https://img.shields.io/badge/Portfolio-000?logo=vercel" /></a>
 </p>
 
