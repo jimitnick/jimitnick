@@ -18,12 +18,12 @@
 ---
 
 ### 🛠️ Tech Stack
-- 💻 Languages: `Python`, `C++`, `Java`, `JavaScript`
+- 💻 Languages: `Python`, `C++`, `Java`, `JavaScript`,`Go`
 - 🌐 Frontend: `React`, `HTML`, `CSS`, `Tailwind`
-- 🖥 Backend: `Node.js`, `Express`, `Django`
-- 🛢 Databases: `MongoDB`, `MySQL`
+- 🖥 Backend: `Node.js`, `Express`, `Django`,`Go`
+- 🛢 Databases: `MongoDB`, `MySQL`,`FireStore`
 - ☁️ Cloud:  `Firebase`
-- 🔧 Tools: `Git`, `VS Code`, `Figma`
+- 🔧 Tools: `Git`, `VS Code`, `Figma`,`Github`
 
 ---
 
